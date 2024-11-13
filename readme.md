@@ -12,4 +12,7 @@ This is a simple lua file that has wriiten to get vim session save feature to wo
 require("session-save")
 ```
 
+### To-do
+[ ] Enable the neotree buffer save
+
 ### Thanks 
